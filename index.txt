@@ -1,3 +1,5 @@
 Linha de exemplo
 
+Uma linha qualquer no meio do arquivo inserido na master
+
 Corrigido bug deste arquivo
